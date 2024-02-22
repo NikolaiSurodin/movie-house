@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "home": "Главная",
+    "about": "О нас",
+    "films": "Фильмы",
+    "shows": "Сериалы",
+    "people": "Люди",
+    "collection": "Коллекции",
+    "login": "Вход",
+    "logout": "Выйти"
+  },
+  "info": {
+    "details": "Детали",
+    "recommendations": "Рекомендации",
+    "similar": "Похожие",
+    "description": "Описание",
+    "info": "Информация",
+    "original_name": "Оригинальное название",
+    "realise_year": "Год релиза",
+    "genres": "Жанры",
+    "original_language": "Язык оригинала",
+    "director": "Режиссер",
+    "cast": "Состав",
+    "rating": "Рейтинг",
+    "credits": "Популярные фильмы",
+    "reviews": "Отзывы",
+    "seasons": "Сезоны",
+    "tv": "Сериалы",
+    "films": "Фильмы"
+  },
+  "search": {
+    "search_films": "Найти фильм",
+    "search_series": "Найти сериал",
+    "search_people": "Найти актёра"
+  },
+  "about": {
+    "header": "О нас",
+    "donations": "Пожертвований собрано: {donations}"
+  },
+  "partial": {
+    "not_recommendations": "Простите, для этого фильма у нас нет для вас рекомендаци",
+    "not_similar": "Простите, для этого фильма у нас нет похожих фильмов"
+  },
+  "button": {
+    "login": "Вход",
+    "load_films": "Показать еще",
+    "show_trailer": "Трейлер",
+    "telegram": "Telegram"
+  },
+  "home": {
+    "genres_title": "Жанры",
+    "popular_films_title": "Популярные фильмы",
+    "top_films_title": "Топ рейтинг",
+    "popular_series_title": "Популярные сериалы",
+    "favorite_films_title": "Избранное"
+  },
+  "menu": {
+    "films": "Фильмы",
+    "series": "Tv-Сериалы",
+    "people": "Актеры"
+  },
+  "text": {
+    "not_collection": "В коллекции нет фильмов. Добавьте, чтобы в скором времени посмотреть",
+    "no_biography_on_lang": "К сожалению на этом языке нет информации",
+    "social_title": "Подписывайтесь в Telegram! Любые вопросы и предложения!",
+    "social_text": "Любые вопросы и предложения!",
+    "back_to_series": "Вернуться к сериалу",
+    "season": "Сезон",
+    "episodes": "Эпизоды"
+  },
+  "notification": {
+    "remove_film": "Этот фильм был удален из избранных",
+    "add_film": "Этот фильм был добавлен в избранные!",
+    "add_show": "Этот сериал был добавлен в избранные!",
+    "something_wrong": "Что-то пошло не так..."
+  },
+  "title": {
+    "people": "Популярные Актеры",
+    "last_season": "Последний Сезон"
+  },
+  "locale": {
+    "en": "EN",
+    "ru": "RU"
+  }
+}

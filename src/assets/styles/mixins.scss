@@ -1,0 +1,77 @@
+@mixin minLaptop {
+  @media (min-width: 1440px) {
+    @content;
+  }
+}
+
+@mixin desktopbiggest {
+  @media (min-width: 1680px) and (max-width: 1920px) {
+    @content;
+  }
+}
+
+@mixin desktopbig {
+  @media (min-width: 320px) and (max-width: 1680px) {
+    @content;
+  }
+}
+
+@mixin laptop {
+  @media (min-width: 320px) and (max-width: 1440px) {
+    @content;
+  }
+}
+
+@mixin laptopsmall {
+  @media (min-width: 320px) and (max-width: 1365px) {
+    @content;
+  }
+}
+
+@mixin desktopsmall {
+  @media (min-width: 320px) and (max-width: 1200px) {
+    @content;
+  }
+}
+
+@mixin ipadpro {
+  @media (min-width: 320px) and (max-width: 1024px) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media (min-width: 320px) and (max-width: 991px) {
+    @content;
+  }
+}
+
+@mixin phone_wide {
+  @media (min-width: 320px) and (max-width: 767px) {
+    @content;
+  }
+}
+
+@mixin phone_logos {
+  @media (min-width: 320px) and (max-width: 550px) {
+    @content;
+  }
+}
+
+@mixin phone {
+  @media (min-width: 320px) and (max-width: 479px) {
+    @content;
+  }
+}
+
+@mixin iphoneSe {
+  @media (max-width: 374px) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media (min-width: 1439px) {
+    @content;
+  }
+}

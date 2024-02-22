@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "films": "Films",
+    "shows": "TV-Shows",
+    "people": "People",
+    "collection": "My collection",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "info": {
+    "details": "Details",
+    "recommendations": "Recommendations",
+    "similar": "Similar",
+    "description": "Description",
+    "info": "Info",
+    "original_name": "Original title",
+    "realise_year": "Realise year",
+    "genres": "Genres",
+    "original_language": "Original language",
+    "director": "Director",
+    "cast": "Cast",
+    "rating": "Rating",
+    "credits": "Popular films",
+    "reviews": "Reviews",
+    "seasons": "Seasons",
+    "films": "Films",
+    "tv": "Tv-Shows"
+  },
+  "about": {
+    "header": "About us",
+    "donations": "Donations raised: {donations}"
+  },
+  "search": {
+    "search_films": "Search film",
+    "search_series": "Search series",
+    "search_people": "Search people"
+  },
+  "partial": {
+    "not_recommendations": "Sorry, we don't have a recommendation for you for this movie.",
+    "not_similar": "Sorry, we don't have a similar films for you for this movie."
+  },
+  "button": {
+    "login": "Login",
+    "load_films": "Load",
+    "show_trailer": "Trailer",
+    "telegram": "Telegram"
+  },
+  "home": {
+    "genres_title": "Genres",
+    "popular_films_title": "Popular films",
+    "top_films_title": "Top rating",
+    "popular_series_title": "Popular TV-shows",
+    "favorite_films_title": "My favorites"
+  },
+  "menu": {
+    "films": "Films",
+    "series": "Tv-shows",
+    "people": "People"
+  },
+  "text": {
+    "not_collection": "There are no films in the collection. Add to watch soon",
+    "no_biography_on_lang": "There is no information in the selected language",
+    "social_title": "Subscribe to Telegram!",
+    "social_text": "Any questions and any suggestions!",
+    "back_to_series": "Back to Series",
+    "season": "Season",
+    "episodes": "Episodes",
+    "no_films": "Sorry.. There is not films"
+  },
+  "notification": {
+    "remove_film": "This film was removed to favorite!",
+    "add_film": "This film was added to favorite!",
+    "add_show": "This TV-SHOW was added to favorite!",
+    "something_wrong": "Something wrong"
+  },
+  "title": {
+    "people": "Popular People",
+    "last_season": "Last Season"
+  },
+  "locale": {
+    "en": "EN",
+    "ru": "RU"
+  }
+}
