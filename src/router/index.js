@@ -2,6 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import { useMeStore } from '../stores/meStore'
 import FilmItem from '../views/FilmItem.vue'
 import HomeView from '../views/HomeView.vue'
+import FilmsView from '../views/FilmsView.vue'
 
 const router = createRouter( {
   history: createWebHistory( import.meta.env.BASE_URL ),
@@ -14,7 +15,7 @@ const router = createRouter( {
     {
       path: '/films',
       name: 'films',
-      component: () => import('../views/FilmsView.vue')
+      component: FilmsView
     },
     {
       path: '/tv-shows',
